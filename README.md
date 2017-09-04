@@ -15,3 +15,11 @@ Though afar I live, It is hard to say goodbye.
 Genuinely bow, when I decide to leave.
 
 Don't ask what day to meet again!
+
+# run
+```
+git clone https://github.com/flyce/dff.git
+cd dff
+npm i
+yarn start
+```
