@@ -14,7 +14,7 @@ Though afar I live, It is hard to say goodbye.
 
 Genuinely bow, when I decide to leave.
 
-Don't ask what day to meet again!
+Don't ask when to meet again!
 
 # run
 ```
